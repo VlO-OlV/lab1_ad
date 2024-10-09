@@ -1,0 +1,5 @@
+files/*
+!files/b
+!files/c
+files/b/*
+files/c/*
